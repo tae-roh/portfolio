@@ -63,7 +63,7 @@ const App: React.FC = () => {
             <div className="flex-shrink-0 mx-auto md:mx-0">
               <div className="w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden bg-gray-100 shadow-sm border border-gray-100">
                 <img 
-                  src="https://picsum.photos/400/400?grayscale" 
+                  src="profile.jpg" 
                   alt={RESUME_DATA.name} 
                   className="w-full h-full object-cover grayscale contrast-110 hover:grayscale-0 transition-all duration-500"
                 />
