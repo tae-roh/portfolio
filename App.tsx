@@ -65,7 +65,7 @@ const App: React.FC = () => {
                 <img 
                   src="profile.jpg" 
                   alt={RESUME_DATA.name} 
-                  className="w-full h-full object-cover grayscale contrast-110 hover:grayscale-0 transition-all duration-500"
+                  className="w-full h-full object-cover transition-all duration-500"
                 />
               </div>
             </div>
