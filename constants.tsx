@@ -71,7 +71,7 @@ export const RESUME_DATA: ResumeData = {
       title: "Ajou University Award",
       issuer: "Ajou University",
       date: "Feb. 2024",
-      description: "Only one graduate in the engineering college with outstanding performance during college years"
+      description: "Only one graduate in the College of Engineering with outstanding performance during college years"
     },
     {
       id: "a2",
