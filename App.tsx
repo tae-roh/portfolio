@@ -17,9 +17,9 @@ const App: React.FC = () => {
             <h1 className="text-4xl md:text-5xl mb-3 tracking-tight text-black">
               <span className="font-normal">{firstName}</span> <span className="font-bold">{lastName}</span>
             </h1>
-            <p className="text-gray-500 text-sm font-medium">
+            {/* <p className="text-gray-500 text-sm font-medium">
               {RESUME_DATA.pronunciation}
-            </p>
+            </p> */}
           </div>
 
           <div className="flex flex-col-reverse md:flex-row items-start gap-8 md:gap-12">
